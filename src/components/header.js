@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
-import "C:/Users/user/Desktop/sporterra — copy/src/styles/header.css";
+import "../styles/header.css";
 import logo from "../image/mainlogo.jpg";
 import { Link } from "react-router-dom";
 
